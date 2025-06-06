@@ -1,0 +1,4 @@
+[build]
+  base    = "arino-nextjs"
+  publish = ".next"
+  command = "npm run build" 
